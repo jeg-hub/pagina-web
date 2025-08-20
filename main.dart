@@ -1,5 +1,5 @@
 void main() {
-  String palabra = "anita"; // INSERTA LA PALABRA AQUI
+  String palabra = "retorno"; // INSERTA LA PALABRA AQUI
   if (esPalindromo(palabra)) {
     print("$palabra es un palíndromo.");
   } else {
